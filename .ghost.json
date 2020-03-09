@@ -1,6 +1,6 @@
 {
   "development": {
-    "apiUrl": "https://dannyboy-5sph.localhost.run",
+    "apiUrl": "http://localhost:3333",
     "contentApiKey": "3b00f745326d2dc844f78e84cb"
   },
   "production": {

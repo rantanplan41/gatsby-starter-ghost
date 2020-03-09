@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://dannyboy-5sph.localhost.run",
+    "contentApiKey": "3b00f745326d2dc844f78e84cb"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://dannyboy-5sph.localhost.run",
+    "contentApiKey": "3b00f745326d2dc844f78e84cb"
   }
 }
